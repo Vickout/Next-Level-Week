@@ -14,6 +14,7 @@
 }
 
 #page-home header {
+    margin-top: 48px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -21,7 +22,6 @@
 
 
 #page-home header a {
-    margin-top: 48px;
     display: flex;
     color: var(--title-color);
     font-weight: 700;
